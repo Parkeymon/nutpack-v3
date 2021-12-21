@@ -1,0 +1,11 @@
+mods/
+logs/
+saves/
+crash-reports/
+dumps/
+config/ichunutil
+reauth.toml
+usercache.json
+usernamecache.json
+minecraftinstance.json
+.curseclient

@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Parkeymon",
+      "uniqueId": "fd6f215b-ccdd-4ebb-b4ba-d93268f6c144"
+    },
+    "time": 1640070133981,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JJ4UBMlHW8"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Parkeymon",
+      "uniqueId": "fd6f215b-ccdd-4ebb-b4ba-d93268f6c144"
+    },
+    "time": 1640070055226,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SqYAHkjYsh"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Parkeymon",
+      "uniqueId": "fd6f215b-ccdd-4ebb-b4ba-d93268f6c144"
+    },
+    "time": 1640069314186,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Y9r7FJUIbh"
+    }
+  }
+]
