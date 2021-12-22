@@ -4,6 +4,11 @@ saves/
 crash-reports/
 dumps/
 config/ichunutil
+config/spark
+journeymap/data
+journeymap/journeymap.log
+screenshots/
+servers.dat_old
 reauth.toml
 usercache.json
 usernamecache.json

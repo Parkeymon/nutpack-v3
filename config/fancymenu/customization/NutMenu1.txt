@@ -1,0 +1,223 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = cool_slideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -36
+}
+
+customization {
+  identifier = %id=400322%
+  width = 145
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  seconds = 0.25
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = bottom-left
+  x = 123
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=604382%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-right
+  x = -121
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=400382%
+  width = 121
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = bottom-left
+  x = 23
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=502382%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = bottom-left
+  x = 1
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=376382%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=400298%
+  width = 121
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  seconds = 0.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-right
+  x = -145
+  action = movebutton
+  y = -36
+}
+
+customization {
+  identifier = %id=400346%
+  width = 145
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  seconds = 0.75
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  delayappearanceseconds = 1.25
+  scale = 4.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = -113
+  action = addtext
+  actionid = ba8de3a3-c92a-4572-9b6f-0a55f1aaf22d1640119977420
+  y = 33
+  delayappearance = true
+  alignment = left
+  value = Nut Pack V3
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = top-centered
+  basecolor = #ffff00
+  shadow = true
+  delayappearanceseconds = 2.0
+  splashfilepath = resources\splashes.txt
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 86
+  actionid = 9fc55f10-a2ab-4c66-84ba-c41cb2f138221640120627502
+  action = addsplash
+  y = 62
+  delayappearance = true
+  delayappearanceeverytime = true
+}
+
+customization {
+  showname = true
+  orientation = bottom-right
+  crouching = false
+  x = -31
+  slim = false
+  actionid = a4f5a175-eebb-4fdc-83e4-0e0b3f4437a91640121518901
+  action = addentity
+  y = -18
+  scale = 30
+  playername = %playername%
+  parrot = false
+}
+
